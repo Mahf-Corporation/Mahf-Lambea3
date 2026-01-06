@@ -1,0 +1,2 @@
+# Baseline file for clang-tidy (generated placeholder)
+# Review clang-tidy-report.txt artifact in CI to create a curated baseline.

@@ -1,0 +1,85 @@
+MAHF FIRMWARE CPU DRIVER
+SON KULLANICI LİSANS SÖZLEŞMESİ (EULA)
+
+Bu Son Kullanıcı Lisans Sözleşmesi (“Sözleşme”), Mahf Corporation (“Lisans Veren”) ile Mahf Firmware CPU Driver yazılımını kullanan kişi veya kuruluş (“Lisans Alan”) arasında düzenlenmiştir.
+
+Yazılımın kurulması ve kullanılması, bu sözleşmede belirtilen şartların kabul edildiği anlamına gelir.
+
+1. AMAÇ VE KAPSAM
+
+Bu yazılım, Windows işletim sistemlerinde CPU performansı, güç yönetimi ve sistem davranışlarının daha verimli şekilde yönetilmesini sağlamak amacıyla geliştirilmiştir.
+
+Bu sözleşme; sürücü dosyaları, kontrol paneli, yapılandırma dosyaları, belgeler ve gelecekte yayınlanabilecek güncellemeleri kapsar.
+
+2. LİSANS HAKKI
+
+2.1 Lisans Alan’a, yazılımı kendi cihazlarında kullanması için devredilemez, münhasır olmayan ve süresiz bir kullanım lisansı verilir.
+
+2.2 Yazılım satılmamaktadır; kullanım hakkı bu sözleşme ile lisanslanmaktadır.
+
+3. KULLANIM KOŞULLARI
+
+Lisans Alan:
+
+Yazılımı Windows 10 ve üzeri işletim sistemlerinde kullanacağını
+
+Yazılımın sistem kaynaklarıyla doğrudan etkileşimde bulunabileceğini
+
+Önerilen ayarların dışına çıkıldığında farklı sistem davranışları oluşabileceğini
+kabul eder.
+
+4. YAZILIMIN KULLANIMI
+
+Yazılım:
+
+Sistem performansını optimize etmeye yardımcı olur
+
+Donanım özelliklerine göre yapılandırılabilir
+
+Kullanıcının kontrolü altında çalışır
+
+Mahf Corporation, yazılımı mümkün olan en güvenli ve kararlı şekilde sunmayı hedefler.
+
+5. GÜNCELLEMELER VE GELİŞTİRMELER
+
+5.1 Yazılım düzenli olarak geliştirilebilir ve güncellenebilir.
+5.2 Güncellemeler; performans iyileştirmeleri, hata düzeltmeleri ve yeni özellikler içerebilir.
+5.3 Güncellemelerin yüklenmesi, yazılım deneyimini iyileştirmeyi amaçlar.
+
+6. DESTEK VE TOPLULUK
+
+Mahf Corporation, kullanıcı geri bildirimlerine önem verir.
+
+Destek ve iletişim kanalları:
+
+Resmi Discord sunucusu
+
+GitHub deposu
+
+Resmi web sitesi
+
+Topluluk katkıları ve geri bildirimler memnuniyetle karşılanır.
+
+7. FİKRİ MÜLKİYET
+
+Yazılım ve tüm bileşenlerin fikri mülkiyet hakları Mahf Corporation’a aittir.
+Bu sözleşme, yalnızca kullanım hakkı sağlar.
+
+8. SÖZLEŞME DEĞİŞİKLİKLERİ
+
+Mahf Corporation, yazılımın gelişimine paralel olarak bu sözleşmede makul değişiklikler yapabilir.
+Güncel sürüm her zaman resmi dağıtım kanallarında yayınlanır.
+
+9. GEÇERLİ HUKUK
+
+Bu sözleşme, Türkiye Cumhuriyeti hukuku kapsamında değerlendirilir.
+
+10. İLETİŞİM
+
+Mahf Corporation
+Web: https://www.mahfcorp.com
+
+Discord: (resmi sunucu bağlantınız)
+
+© 2024–2025 Mahf Corporation
+Tüm hakları saklıdır.
