@@ -19,7 +19,7 @@ Mahf Firmware CPU Driver, Intel ve AMD işlemcileri için geliştirilmiş profes
 ### Temel Özellikler:
 - **4 Performans Modu**: Power Save, Balanced, Performance, Extreme
 - **Gerçek Zamanlı İzleme**: CPU kullanımı, sıcaklık, güç tüketimi
-- **Universal Destek**: Intel, AMD, ARM mimarileri
+- **Universal Destek**: Intel, AMD mimarileri
 - **Kararlı Çalışma**: Test edilmiş, hatasız yapı
 - **Kullanıcı Dostu**: Modern kontrol paneli arayüzü
 
@@ -46,7 +46,7 @@ Mahf Firmware CPU Driver, Intel ve AMD işlemcileri için geliştirilmiş profes
 
 ### Yöntem 1: Otomatik Kurulum (Önerilen)
 
-1. `MahfCPUSetup_3.0.2.exe` dosyasını indirin
+1. `Lambea3-Setup_3.0.2.exe` dosyasını indirin
 2. Sağ tıklayıp "Yönetici olarak çalıştırın"
 3. Kurulum sihirbazını takip edin
 4. Kurulum tamamlandığında sistemi yeniden başlatın
@@ -61,3 +61,4 @@ Mahf Firmware CPU Driver, Intel ve AMD işlemcileri için geliştirilmiş profes
 cd /d "sürücü_dosyalarının_klasörü"
 
 install.bat
+
